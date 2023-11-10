@@ -4,7 +4,7 @@
 Стэк: Java, Angular, Nrgx, JWT, Spring(Boot,Security,Web,Actuator), Hibernate, Geadle, PostgreSQL
 
 Front-end
-1. Нужно скачать проект с гита https://github.com/Neolollila/Sensors-Monitor
+1. Нужно скачать проект с гита https://github.com/Neolollila/sensor-monitor-front и https://github.com/Neolollila/sensor-monitor-back
 2. Для работы с Angular необходимо установить сервер Node.js и пакетный менеджер npm, для компиляции приложения установить Angular CLI(если ранее не были установленны)
 3. Открыть sensors-monitor-front в WebStorm/VSCode или других средах разработки к которым вы привыкли.
 4. Запустить приложение написав в командной строке ng serve.
